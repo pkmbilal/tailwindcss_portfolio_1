@@ -14,4 +14,4 @@ jobs:
         server: ftp.ziabags.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /home/mbilalin/hostroot.in/
+        server-dir: hostroot.in/
